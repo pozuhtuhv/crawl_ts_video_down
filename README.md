@@ -4,7 +4,7 @@
 
 #### ts, jpeg 등 통신으로 주고 받는 비디오 파일 다운받기
 1. pip install -r requirements.txt
-2. F12 -> Network -> record -> filter -> ts or jpeg.. etc.. -> URL copy
+2. Chorme or Edge / F12 -> Network -> record -> filter -> ts or jpeg.. etc.. -> URL copy
 3. URL insert (37 line) : {i}.(file extension)
 4. 다운 받아지는 확장자 변경 (38 line)
 5. 실행
